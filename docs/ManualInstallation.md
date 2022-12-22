@@ -5,13 +5,13 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- ManualInstallation.md v1.1.8.1
-XMAS (XMAS)
+Kerbal XMAS (XMAS)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# XMAS (XMAS)
+# Kerbal XMAS (XMAS)
 
 [Home](./index.md)
 
@@ -36,22 +36,22 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the `LunaticAeronautics` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/LunaticAeronautics/XMAS`
+  * Delete `<KSP_ROOT>/GameData/LunaticAeronautics/KerbalXMAS`
 * Extract the package's `LunaticAeronautics` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/LunaticAeronautics` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/LunaticAeronautics/XMAS`
+  * you should end up with `<KSP_ROOT>/GameData/LunaticAeronautics/KerbalXMAS`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/LunaticAeronautics/XMAS`
+  * Delete `<KSP_ROOT>/GameData/LunaticAeronautics/KerbalXMAS`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/LunaticAeronautics/GameData/XMAS`
+  * you should end up with `<KSP_ROOT>/LunaticAeronautics/GameData/KerbalXMAS`
 
 ## The following file layout must be present after installation
 
@@ -61,7 +61,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
     + [LunaticAeronautics]
       + [LunaticAeronauticsLtd]
         ...
-      + [XMAS]
+      + [KerbalXMAS]
         + [Compatibility]
           ...
         + [Localization]
@@ -76,7 +76,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * GPL-2.0.txt
         * ManualInstallation.htm
         * readme.htm
-        * XMAS.version
+        * KerbalXMAS.version
     ...
     * ModuleManager.ConfigCache
   * KSP.log
