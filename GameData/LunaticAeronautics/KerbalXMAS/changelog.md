@@ -10,6 +10,22 @@
 | spacedock  | (https://spacedock.info/mod/3179)                                 |
 | ckan       | KerbalXMAS                                                        |
 
+## Version 1.0.5.1-release - `<Archival>` edition
+
+* no changelog provided
+* remove <contents.obv> files
+* change model path
+
+### Status 1.0.5.1
+
+* Issues
+  * closes #23 - 1.0.5.1-release - `<Archival>`
+  * closes #7 - Archival Releases
+  * closes #53 - [BUG] <TextureReplacer.cfg>
+  * closes #55 - [BUG] <TweakScale.cfg>
+
+---
+
 ## Version 1.0.5.0-release - `<Archival>` edition
 
 * 10 Dec 2015
