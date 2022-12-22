@@ -1,7 +1,7 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/LunaticAeronautics/XMAS/*",
+        "GameData/LunaticAeronautics/KerbalXMAS/*",
         "source/*",
         "**/@thumbs/**",
         "**/Agencies/**",
