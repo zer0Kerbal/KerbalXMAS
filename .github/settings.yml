@@ -8,7 +8,7 @@
 
 repository:
   # The name of the repository. Changing this will rename the repository
-  name: XMAS
+  name: KerbalXMAS
 
   # A short description of the repository that will show up on GitHub
   description: A holiday themed parts addon for For Kerbal Space Program.
@@ -17,7 +17,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/
 
   # A comma-separated list of topics to set on the repository
-  topics: xmas,christmas,themed-parts,lunatic-aeronautics,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,ximrm,tuareg,zedk,mods,contributions-welcome,hacktoberfest
+  topics: KerbalXMAS,christmas,themed-parts,lunatic-aeronautics,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,ximrm,tuareg,zedk,mods,contributions-welcome,hacktoberfest
 
 # Labels: define labels for Issues and Pull Requests
 labels:
