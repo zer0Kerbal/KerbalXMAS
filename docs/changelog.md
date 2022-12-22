@@ -38,6 +38,7 @@ CC BY-ND 4.0 by zer0Kerbal
   * closes #22 - 1.0.5.0a-release - `<Archival>`
   * updates #7 - Archival Releases
   * updates #53 - [BUG] <TextureReplacer.cfg>
+  * updates #55 - [BUG] <TweakScale.cfg>
 
 ---
 
