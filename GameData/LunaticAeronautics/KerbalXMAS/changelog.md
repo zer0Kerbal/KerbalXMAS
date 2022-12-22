@@ -10,6 +10,25 @@
 | spacedock  | (https://spacedock.info/mod/3179)                                 |
 | ckan       | KerbalXMAS                                                        |
 
+## Version 1.0.4.5-release `<Archival>`
+
+* 27 Dec 2014
+* Released for Kerbal Space Program 0.90.0
+* by ximrm and Tuareg
+
+* Deer sounds adjusted
+* remove <contents.obv> files
+* change model path
+* new <DeerAnim.dll>
+
+### Status 1.0.4.5
+
+* Issues
+  * closes #19 - 1.0.4.5-release - `<Archival>`
+  * updates #7 - Archival Releases
+
+---
+
 ## Version 1.0.4.0-release `<Archival>`
 
 * 26 Dec 2014
