@@ -12,8 +12,8 @@
 
 ## Version 1.0.0.0-release
 
-* 03 Jan 2015
-* Released for Kerbal Space Program 1.0.5
+* 23 Dec 2014
+* Released for Kerbal Space Program 0.90.0
 * by ximrm and Tuareg
 
 * Initial release
