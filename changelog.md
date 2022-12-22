@@ -10,13 +10,14 @@
 | spacedock  | (https://spacedock.info/mod/3179)                                 |
 | ckan       | KerbalXMAS                                                        |
 
-## Version 1.0.0.0-release
+## Version 1.0.0.0-release `<Archival>`
 
 * 23 Dec 2014
 * Released for Kerbal Space Program 0.90.0
 * by ximrm and Tuareg
 
 * Initial release
+* remove <contents.obv> files
 
 ### Status 1.0.0.0
 
