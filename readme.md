@@ -76,11 +76,10 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Help Wanted
 
-> * [MOARdV's Avionics Systems (MAS)][mas]/[Raster Prop Monitor (RPM)][mas] prop/patch
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures and models!
-> * Model updates
+> * Model updates - maybe a running rabbit for another engine?
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 >
