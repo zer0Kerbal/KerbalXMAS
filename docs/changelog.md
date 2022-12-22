@@ -22,7 +22,7 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3179)                                 |
 | ckan       | KerbalXMAS                                                        |
 
-## Version 1.0.3.2-release `<Archival>`
+## Version 1.0.4.0-release `<Archival>`
 
 * 26 Dec 2014
 * Released for Kerbal Space Program 0.90.0
