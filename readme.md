@@ -177,7 +177,7 @@ parts, physics, plugin, control, convenience
 [MOD:attr]: https://zer0kerbal.github.io/KerbalXMAS/Attributions "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/KerbalXMAS/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/KerbalXMAS/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/ "KerbalXMAS Forum"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/211153-*/ "KerbalXMAS Forum"
 [MOD:issue]: https://github.com/zer0Kerbal/KerbalXMAS/issues "Issues"
 [MOD:markt]: https://zer0kerbal.github.io/KerbalXMAS/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/KerbalXMAS/Notices "Notices"
@@ -234,7 +234,7 @@ parts, physics, plugin, control, convenience
 [LAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/ "Lunatic Aeronautics Ltd (LA/L)"
 [LAMAS]: https://github.com/zer0Kerbal/KMAS "Lunatic Aeronautics K-MAS"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
-[RAGS]: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/ "KerbalXMAS"
+[RAGS]: https://forum.kerbalspaceprogram.com/index.php?/topic/211153-*/ "KerbalXMAS"
 
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
