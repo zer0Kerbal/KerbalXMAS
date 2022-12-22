@@ -15,15 +15,11 @@ updated: 29 Jul 2022 -->
 
 [Home](./index.md)
 
-> And an other new release from your Lunatic scientists:
+> A few weeks ago, a pink-skinned alien "landed" on Kerbin.
 >
-> Theeeee Rover gravity manipulator!
+> After gathering up all the debris, our scientists decided to reverse engineer these strange but obviously useful parts.
 >
-> A module to manipulate the gravity affecting your rover
->
-> You can choose which planet or moon settings you want to apply, turn it on and flyyyyyyyyyy.
->
-> Sadly our scientist were not able to solve the problem of conflicting with engine electronics.
+> The alien's corpse was identified as Santa K. We're assuming his last name was Kerman.
 
 ## Installation Instructions
 
@@ -62,7 +58,11 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
       + [LunaticAeronauticsLtd]
         ...
       + [KerbalXMAS]
+        + [Assets]
+          ...
         + [Compatibility]
+          ...
+        + [Config]
           ...
         + [Localization]
           ...
