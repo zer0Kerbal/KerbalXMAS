@@ -4,7 +4,7 @@
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-2.0                                                           |
 | author     | ximrm, Tuareg and zer0Kerbal                                      |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/) |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/211153-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/KerbalXMAS)             |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KerbalXMAS)           |
 | spacedock  | (https://spacedock.info/mod/3166)                                 |
