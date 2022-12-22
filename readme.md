@@ -11,11 +11,9 @@ updated: 04 Oct 2022 -->
 
 ![Code][CODE:shd]
 
-Get better control over your Rover by switching the gravitational influence to another celestial body.
+A holiday themed parts addon by Lunatic Aeronautics for Kerbal Space Program.
 
-Lunatic Aeronautics present *the*
-
-# KerbalXMAS (LA/RAGS)
+# Kerbal XMAS (XMAS)
 
 A few weeks ago, a pink-skinned alien "landed" on Kerbin. After gathering up all the debris, our scientists decided to reverse engineer these strange but obviously useful parts. The alien's corpse was identified as Santa K. We're assuming his last name was Kerman.
 
@@ -27,26 +25,29 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Preamble by [Taureg][tuareg]
 
-* Included:
-  * A wild, animated, running reindeer(pulling engine.mout before tank, use KerbalXMAS tanks for deerfood(fuel) and beware of g-forces)
-  * A tree shaped command pod
-  * Presents (dual color fuelswitch)
-  * Stockings (fuelswitch)
-  * Sweets (RCS tanks)
-  * Nosehats (Cones, colorswitch)
-  * A Candle (creates light)
-  * Santa's list (used to store experiments)
-  * A Stocklike Fuel line and Strut connector
+> The scientists still have some problems with the sled. It will be added later.
+>
+> Many thanks to [nli2work][nli2work] for doing the reindeer animation and to [Tuareg][tuareg] for solving [my][ximrm] problems.
+>
+> As mentioned, this is our first mod. We learned a lot, but there's even more to learn. Stay > tuned for our coming fantasies. We have lot's of ideas.
+> Happy Holidays!
+> Lunatic Aeronautics (Tuareg&ximrm)
+
+### Included
+
+* A wild, animated, running reindeer(pulling engine.mout before tank, use KerbalXMAS tanks for deerfood(fuel) and beware of g-forces)
+* A tree shaped command pod
+* Presents (dual color fuelswitch)
+* Stockings (fuelswitch)
+* Sweets (RCS tanks)
+* Nosehats (Cones, colorswitch)
+* A Candle (creates light)
+* Santa's list (used to store experiments)
+* A Stocklike Fuel line and Strut connector
 * The Sled had been cut due toother priorities.(build your own ;) or use the one in [A Very Kerbal Christmas][AVKC]
 * Most parts come in different sizes
 
-The scientists still have some problems with the sled. It will be added later.
 
-Many thanks to nli2work for doing the reindeer animation and to Tuareg for solving my problems.
-
-As mentioned, this is our first mod. We learned a lot, but there's even more to learn. Stay tuned for our coming fantasies. We have lot's of ideas.
-Happy Holidays!
-Lunatic Aeronautics (Tuareg&ximrm)
 
 ### See more
 
@@ -57,15 +58,19 @@ Lunatic Aeronautics (Tuareg&ximrm)
 >* [ChangeLog][MOD:chlog] for more details of changes
 >* [Known Issues][MOD:issue] for more details of feature requests and known issues
 
-### YouTube video by [`Thomas Varga'](https://www.youtube.com/@vargata)
+### YouTube videos by [SWDennis](https://www.youtube.com/@SWDennis) [KSP: Space Scumbag] (https://forum.kerbalspaceprogram.com/index.php?/profile/70411-*/)
 
-[![Lunatic Aeronautics' Anti-gravity module](https://img.youtube.com/vi/ymNXGhG5iSs/0.jpg)](https://youtu.be/ymNXGhG5iSs)
+Santa Klause is coming for you
+[![Santa Klause is coming for you](https://img.youtube.com/vi/ig-ViozlSHc/0.jpg)](https://youtu.be/ig-ViozlSHc)
 
-### YouTube review by [`Billy Winn Jr`](https://www.youtube.com/c/BillyWinnJr)
+Santa Jeb Returns!
+[![Santa Jeb Returns!](https://img.youtube.com/vi/TTwjd_gh2Oc/0.jpg)](https://youtu.be/TTwjd_gh2Oc)
 
-*possibly [Jatwaa](https://forum.kerbalspaceprogram.com/index.php?/profile/59627-*/) on the forums*
+Santa Jeb 4
+[![Santa Jeb 4](https://img.youtube.com/vi/NIrGnShhXcg/0.jpg)](https://youtu.be/NIrGnShhXcg)
 
-[![Kerbal Space Program: Holy Floaty Rovers!](https://img.youtube.com/vi/v6XxcuiLaAY/0.jpg)](https://youtu.be/v6XxcuiLaAY)
+Santa Jeb bringing presents to the ISS
+[![Santa Jeb bringing presents to the ISS](https://img.youtube.com/vi/YZNyT-ulUrc/0.jpg)](https://youtu.be/YZNyT-ulUrc)
 
 ### Help Wanted
 
@@ -108,11 +113,11 @@ or [![CKAN][ckan:img]][ckan:url]
   * [Anti Grav Room (LA/AGR)][LAAGR]
   * [K-MAS (LAMAS)][LAMAS]
   * [Kerbal XMAS (XMAS)][RAGS]
+* [A Very Kerbal Christmas (AVKC)][AVKC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [Kerbal Attachment System (KAS)][kas]
 * [Kerbal Inventory System (KIS)][kis]
-
 
 * Firespitter plugin(required)
 * ATM/DRE/TR config provided
@@ -221,7 +226,7 @@ parts, physics, plugin, control, convenience
 [GITHUB:url]: https://github.com/zer0Kerbal/KerbalXMAS/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
-[SPCDCK:url]: http://spacedock.info/mod/3166 "SpaceDock"
+[SPCDCK:url]: http://spacedock.info/mod/3179 "SpaceDock"
 [SPCDCK:shd]:  https://img.shields.io/badge/SpaceDock-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MDAgNTAwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6IzFBMUExQTt9Cgkuc3Qxe2ZpbGw6IzA1Nzg5Mzt9Cgkuc3Qye2ZpbGw6IzA3QUNEMjt9Cjwvc3R5bGU+CjxwYXRoIGlkPSJYTUxJRF8xXyIgY2xhc3M9InN0MCIgZD0iTTQwMCwwLjZIMTAwYy01NSwwLTEwMCw0NS0xMDAsMTAwVjQwMGMwLDU1LDQ1LDEwMCwxMDAsMTAwaDMwMGM1NSwwLDEwMC00NSwxMDAtMTAwVjEwMC42CglDNTAwLDQ1LjYsNDU1LDAuNiw0MDAsMC42eiIvPgo8ZyBpZD0iWE1MSURfNl8iPgoJPGcgaWQ9IlhNTElEXzlfIj4KCQk8cGF0aCBpZD0iWE1MSURfMTdfIiBjbGFzcz0ic3QxIiBkPSJNMTgzLjMsMTY1LjljNi40LTMuNiwxNi45LTMuNiwyMy4zLDBMNDY3LjQsMzE0YzYuNCwzLjYsNi40LDkuNiwwLDEzLjJMMjA2LjYsNDc0LjQKCQkJYy02LjQsMy42LTE3LjcsNi42LTI1LDYuNmgtNDQuOGMtNy40LDAtOC4xLTMtMS43LTYuNmwyNjEtMTQ3LjJjNi40LTMuNiw2LjQtOS42LDAtMTMuMkwxNzEsMTg2Yy02LjQtMy42LTYuNC05LjYsMC0xMy4yCgkJCUwxODMuMywxNjUuOXoiLz4KCTwvZz4KCTxnIGlkPSJYTUxJRF84XyI+CgkJPHBhdGggaWQ9IlhNTElEXzE2XyIgY2xhc3M9InN0MiIgZD0iTTMxOC44LDE5Yy03LjQsMC0xOC42LDIuOC0yNSw2LjRMMzMsMTczLjRjLTYuNCwzLjYtNi40LDkuNSwwLDEzLjFsMjYwLjcsMTQ3LjEKCQkJYzYuNCwzLjYsMTYuOSwzLjYsMjMuMywwbDEyLjMtN2M2LjQtMy42LDYuNC05LjUsMC0xMy4ybC0yMjUuMS0xMjdjLTYuNC0zLjYtNi40LTkuNSwwLTEzLjJMMzY1LjYsMjUuNGM2LjQtMy42LDUuNi02LjQtMS43LTYuNAoJCQlIMzE4Ljh6Ii8+Cgk8L2c+CjwvZz4KPC9zdmc+Cg==  "SpaceDock"
 
 <!-- Kerbal Space Program -->
@@ -229,6 +234,7 @@ parts, physics, plugin, control, convenience
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KerbalXMAS/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->  
+[AVKC]: https://forum.kerbalspaceprogram.com/index.php?/topic/211089-*/ "A Very Kerbal Christmas (AVKC)"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [LAAGR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208502-*/  "Anti Grav Room"
 [LAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/ "Lunatic Aeronautics Ltd (LA/L)"
@@ -283,9 +289,8 @@ parts, physics, plugin, control, convenience
 
 [ximrm]: https://forum.kerbalspaceprogram.com/index.php?/profile/111063-*/ "ximrm"
 [tuareg]: https://forum.kerbalspaceprogram.com/index.php?/profile/84241-*/ "Tuareg"
+[nli2work]: https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/ "nli2work"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
-[IMG:flg:0]: https://via.placeholder.com/256x160png/ffffff/bada55?text=KGEx "Mini Sample Return Capsule Flag"
 
 ---
 
