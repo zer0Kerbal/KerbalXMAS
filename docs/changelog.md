@@ -33,7 +33,11 @@ CC BY-ND 4.0 by zer0Kerbal
 * color/roughness change
 * remove <contents.obv> files
 * change model path
-* new <DeerAnim.dll>
+* bug: <TextureReplacer.cfg>
+  * missing closing brace `}`
+  * updates #53 - [BUG] <TextureReplacer.cfg>
+
+Version 1.0.4.6-release `<Archival>`
 
 ### Status 1.0.4.6
 
