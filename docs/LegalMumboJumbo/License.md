@@ -4,7 +4,7 @@ title: License - GPL-2.0
 ---
 <!--
 GPL-2.0.md v1.0.1.0
-XMAS (XMAS)
+Kerbal XMAS (XMAS)
 created: 23 Mar 2022
 updated: 04 Aug 2022
 -->
