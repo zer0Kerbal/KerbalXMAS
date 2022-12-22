@@ -6,6 +6,10 @@ ACTIVE_TEXTURE_MANAGER_CONFIG
 	{
 		texture = XMas/Stocking/ksp-stocking-nrm_NRM
 		texture = XMas/SantaHat/node_stack_bottom_3_normals_NRM
-		texture = XMas/Candy/sweets--normal_NRM		
-		texture = XMas/candy/candle_nrm_NRM		
+		texture = XMas/Candy/sweets--normal_NRM
+		texture = XMas/Candy/candle_nrm_NRM
+		texture = XMas/xmasshield/ball-nrm2_NRM
+		texture = XMas/xmasshield/ball-nrm-flat
+		texture = XMas/deer/reindeer-nrm_NRM
 	}
+}

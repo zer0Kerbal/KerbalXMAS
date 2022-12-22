@@ -22,6 +22,26 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3179)                                 |
 | ckan       | KerbalXMAS                                                        |
 
+## Version 1.0.5.0-release - `<Archival>` edition
+
+* 10 Dec 2015
+* Released for Kerbal Space Program 1.0.5
+* by ximrm and Tuareg
+
+* no changelog provided
+* remove <contents.obv> files
+* change model path
+
+### Status 1.0.5.0
+
+* Issues
+  * closes #22 - 1.0.5.0a-release - `<Archival>`
+  * updates #7 - Archival Releases
+  * updates #53 - [BUG] <TextureReplacer.cfg>
+  * updates #55 - [BUG] <TweakScale.cfg>
+
+---
+
 ## Version 1.0.4.6-release `<Archival>`
 
 * 27 Dec 2014
@@ -34,7 +54,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * remove <contents.obv> files
 * change model path
 * bug: <TextureReplacer.cfg>
-  * missing closing brace `}`
+  * missing multiple closing braces `}`
   * updates #53 - [BUG] <TextureReplacer.cfg>
 
 ### Status 1.0.4.6
