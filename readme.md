@@ -56,7 +56,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [ChangeLog][MOD:chlog] for more details of changes
 >* [Known Issues][MOD:issue] for more details of feature requests and known issues
 
-### YouTube videos by [SWDennis](https://www.youtube.com/@SWDennis) [KSP: Space Scumbag] (https://forum.kerbalspaceprogram.com/index.php?/profile/70411-*/)
+### YouTube videos by [SWDennis](https://www.youtube.com/@SWDennis) [KSP: Space Scumbag](https://forum.kerbalspaceprogram.com/index.php?/profile/70411-*/)
 
 #### Santa Klause is coming for you
 
