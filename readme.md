@@ -11,7 +11,7 @@ updated: 04 Oct 2022 -->
 
 ![Code][CODE:shd]
 
-A holiday themed parts addon by Lunatic Aeronautics for Kerbal Space Program.
+A holiday themed parts addon (and plugin) by Lunatic Aeronautics for Kerbal Space Program.
 
 # Kerbal XMAS (XMAS)
 
@@ -47,8 +47,6 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 * The Sled had been cut due toother priorities.(build your own ;) or use the one in [A Very Kerbal Christmas][AVKC]
 * Most parts come in different sizes
 
-
-
 ### See more
 
 >* [GitHub Pages][MOD:pages]
@@ -81,15 +79,13 @@ Santa Jeb bringing presents to the ISS
 > * Model updates
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
+>
+> Localization - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
 ### Localization
 
 >* ![English][EN] English
 >* ***your translation here***
->
-> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
-
----
 
 ### Installation Directions [^1]
 
@@ -119,9 +115,12 @@ or [![CKAN][ckan:img]][ckan:url]
 * [Kerbal Attachment System (KAS)][kas]
 * [Kerbal Inventory System (KIS)][kis]
 
-* Firespitter plugin(required)
-* ATM/DRE/TR config provided
-* Texture Replacer needed for reflections!
+### Supports
+
+* [Firespitter Core][fs] plugin
+* [Active Texture Management][atm] (disabled by default)
+* [Deadly Reentry][dre]
+* [Texture Replacer][tr] needed for reflections!
 
 ### Supports
 
@@ -132,7 +131,7 @@ or [![CKAN][ckan:img]][ckan:url]
 
 ### Tags
 
-parts, physics, plugin, control, convenience
+parts, plugin
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
@@ -242,12 +241,16 @@ parts, physics, plugin, control, convenience
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
 [RAGS]: https://forum.kerbalspaceprogram.com/index.php?/topic/211153-*/ "KerbalXMAS"
 
+[atm]: https://forum.kerbalspaceprogram.com/index.php?/topic/53809-*/ "Active Texture Management"
+[dre]: https://forum.kerbalspaceprogram.com/index.php?/topic/50296-*/ "Deadly Reentry"
+[fs]: http://forum.kerbalspaceprogram.com/showthread.php/24551-*/ "Firespitter Core"
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
 [mas]: https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics Systems (MAS)"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/190737-*/ "RasterPropMonitor"
+[tr]: https://forum.kerbalspaceprogram.com/index.php?/topic/161898-*/ "Texture Replacer"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
