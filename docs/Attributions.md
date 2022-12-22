@@ -26,10 +26,11 @@ updated: 03 Jun 2022
 <ul>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/111063-*/"><img border="0" alt="ximrm" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-111063.jpg" width="50" height="50" > ximrm</a> and <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/84241-*/"><img border="0" alt="Tuareg" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-84241.jpg" width="50" height="50" > Tuareg</a> for creating the Lunatic Aeronautics series of addons!</a></li>
   <ul>
-    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/95442-*/" alt="Anti Gravity Room (LAAGR)">Anti Gravity Room (LAAGR) </a></li>
-    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/211153-*/" alt="Kerbal XMAS (XMAS)">Kerbal XMAS (XMAS) </a></li>
-    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/94315-*/" alt="K-MAS (KMAS)">K-MAS (KMAS) </a></li>
+    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/95442-*/" alt="Anti Gravity Room (LAAGR)">Anti Gravity Room (LAAGR)</a></li>
+    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/211153-*/" alt="Kerbal XMAS (XMAS)">Kerbal XMAS (XMAS)</a></li>
+    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/" alt="Rover Anti Gravity System (RAGS)">Rover Anti Gravity System (RAGS)</a></li>
   </ul>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/"><img border="0" alt="ximrm" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_03_2016/output_KWXYnZ.gif.1a3e299a071645446aa14c0dd93bcf73.thumb.gif.c22266d53c24c1588de24e22dba81cf2.gif" width="50" height="50" > ximrm</a> for creating the deer animations</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
 
