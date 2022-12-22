@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | XMAS (XMAS)                                    |
+| modName    | Kerbal XMAS (XMAS)                                    |
 | ---------- | ------------------------------------------------------------------- |
 | license    | GPL-2.0                                                             |
 | author     | ximrm, Tuareg and zer0Kerbal                                        |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/)   |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/XMAS)   |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/XMAS) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/KerbalXMAS)   |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KerbalXMAS) |
 | spacedock  | (https://spacedock.info/mod/3166)                                   |
-| ckan       | XMAS                                              |
+| ckan       | KerbalXMAS                                              |
 
 -1.046More reflections , Heatshield, color/roughness change
 -1.045 Deer sounds adjusted
@@ -25,12 +25,141 @@
 1.05a
 1.51
 
+* Archival Releases
+  * [x] 1.0.5.1-release - `<Archival>`
+  * [x] 1.0.5.0a-release - `<Archival>`
+  * [x] 1.0.4.6-release - `<Archival>`
+  * [x] 1.0.4.6-release - `<Archival>`
+  * [x] 1.0.4.5-release - `<Archival>`
+  * [x] 1.0.4.5-release - `<Archival>`
+  * [x] 1.0.4.0-release - `<Archival>`
+  * [x] 1.0.3.1-release - `<Archival>`
+  * [x] 1.0.3.0-release - `<Archival>`
+  * [x] 1.0.1.0-release - `<Archival>`
+  * [x] 1.0.0.1-release - `<Archival>`
+  * [x] 1.0.0.0-release - `<Archival>`
+
 [Spoiler: Planned Features]
 
 sled
 -science experiment
 -x-mas balls for different purposes
 -shiny secret
+# Part Asset Updates
+
+* [x] create Assets/ folder
+* [x] convert from mesh to MODEL {}
+* [x] rename
+  * [x] models to unique names
+  * [x] textures to unique names
+* [x] update
+  * [x] model pointers (.png et al to .dds)
+  * [x] model texture pointers to new names
+* [x] relocate assets to Assets/
+* [x] eliminate
+  * [x] duplicate textures
+  * [x] duplicate models
+* [x] relocate part.cfg to Parts/
+
+# Create Legal Mumbo Jumbo
+
+* Create Legal Mumbo Jumbo
+  * [x] license check
+  * [x] offline documentation
+  * _Legal
+    * screenshots and pdfs
+    * adoptionLetters
+    * communications concerning
+  * _Links/
+    * link(s) saved
+  * docs/LegalMumboJumbo
+    * [License.md]
+    * FORUM-##.png's
+      * [x] public documentation
+  * [x] GitHub: :octocat:
+    * [x] LICENSE
+    * [x] [license].txt
+  * [x] CurseForge
+  * [x] SpaceDock
+  * [x] CKAN
+
+# Create GitHub Pages
+
+* Create GitHub Pages
+  * docs/
+    * [x] [`_config.yml`]
+    * [x] [Attribution.md] v1.0.7.1
+    * [x] [ManualInstallation.md] v1.1.8.0
+    * [x] [404.md] v1.0.3.2
+    * [x] [LegalMumboJumbo.md] v1.0.5.1
+    * [x] [Localizations.md] v1.1.7.0
+    * [x] [Marketing.md] v1.0.1.0
+    * [x] [Notices.md] v1.0.1.0
+    * [x] [Disclaimer.md] v1.0.1.0
+    * [x] [PartsCatalog.md] v1.1.4.1
+    * [x] [Why.md] v1.1.0.0
+
+# Create documentation
+
+* Create Documentation
+  * [x] readme
+  * deploy to:
+    * [x] CurseForge Description page 🤬
+    * [x] Forum Original Post 🐰
+    * [x] SpaceDock Information page 🌮
+  * [x] release notes
+  * [x] [changelog.md]
+  * [x] update /docs/
+
+# Create HeroLogo.png
+
+* Create
+* [x] HeroLogo.png
+* [x] copy/convert to HeroLogo.jpg
+
+# Create Localization directory and contents
+
+* Localization directory and contents
+  * Create
+    * [x] Localization/
+      * [x] <en-us.cfg>
+      * [x] [readme.md] v2.1.2.0
+      * [x] [quickstart.md] v1.0.1.1
+
+# Create <KerbalXMAS.cfg>
+
+* Add localized tags to parts
+* Create
+  * [x] <KerbalXMAS.cfg> v1.0.0.0
+    * [x] adds localized tags to parts
+
+
+# Create Social Media Presence
+
+* Create Social Media Presence
+  * Kerbal Space Program forum
+    * [x] Create new thread/post in "Add-on Development"
+    * [x] title: [1.12.x] Kerbal XMAS (XMAS) - <1.0.99.0-adoption> - `<Thank you EDITION>` edition [01 Jan 2023]
+    * [x] create release post in new thread/post
+      * [x] content (readme.htm)
+    * original mod's thread/post
+      * [x] post link to new thread/post
+  * [x] CurseForge
+  * [x] Twitter
+  * [x] SpaceDock
+  * [x] Reddit post
+  * [x] Patreon post
+  * [ ] promo vid (30 sec)
+    * [ ] Youtube
+    * [ ] Twitch
+
+# Update License
+
+* Update License
+  * [ ] Updated License: GPL-2.0 + CC BY-SA 4.0
+  * was: CC BY-SA 4.0
+
+---
 
 ## Version 1.5.0.0-release `<Room to Fly>`
 
@@ -39,7 +168,7 @@ sled
 * by zer0Kerbal
 
 * Recompile for 1.7.3
-* <XMAS.dll> v1.4.0.106 --> v1.5.0.107
+* <KerbalXMAS.dll> v1.4.0.106 --> v1.5.0.107
 * <rags-agmodule.cfg> v1.2.1.0
   * add ModuleCargoPart (early)
   * reduced resource consumption from 0.5 to 0.05
@@ -69,7 +198,7 @@ sled
 * by zer0Kerbal
 
 * Recompile for 1.6.1
-* <XMAS.dll> v1.3.0.105 --> v1.4.0.106
+* <KerbalXMAS.dll> v1.3.0.105 --> v1.4.0.106
 
 ### Status 1.4.0.0
 
@@ -86,7 +215,7 @@ sled
 * by zer0Kerbal
 
 * Recompile for 1.5.1
-* <XMAS.dll> v1.2.0.104 --> v1.3.0.105
+* <KerbalXMAS.dll> v1.2.0.104 --> v1.3.0.105
 
 ### Status 1.3.0.0
 
@@ -103,7 +232,7 @@ sled
 * by zer0Kerbal
 
 * Recompile for 1.4.5
-* <XMAS.dll> v1.1.75.103 --> v1.2.0.104
+* <KerbalXMAS.dll> v1.1.75.103 --> v1.2.0.104
 * Create hero logo/cover
 * Updated License: GPL-2.0 + CC BY-SA 4.0
   * was: CC BY-SA 4.0
@@ -113,7 +242,7 @@ sled
   * module
 * Add
   * <ghostparts.cfg> v1.3.0.0
-  * <XMAS.cfg> v1.0.0.0
+  * <KerbalXMAS.cfg> v1.0.0.0
 * Update
   * <en-us.cfg> v1.1.1.0
 
@@ -139,20 +268,20 @@ sled
 
 * x64 bit only
 * Away With Words - Localization
-* <XMAS.dll> v1.1.75.103
+* <KerbalXMAS.dll> v1.1.75.103
 
 * Update
 
 * Rename
   * [agmodule.cfg] to [roverantigrav.cfg]
-    * [agModule] to [XMASModule]
+    * [agModule] to [KerbalXMASModule]
     * [title] from #RAGS-agmodul-titl to #RAGS-titl
     * [description] = #RAGS-agmodul-desc to #RAGS-desc
     * [tags] from #RAGS-agmodul-tags to #RAGS-tags
 
 ### Code
 
-* [XMAS.dll] v1.1.7.103
+* [KerbalXMAS.dll] v1.1.7.103
 * [Bug 🐞]: Module switches off unexpectantly
   * fixed
   * declaration of variable `Consumption` was changed from float to double
@@ -254,11 +383,11 @@ sled
 ### Code 1.1.7.0
 
 * Rename
-  * [agModule.cs] to [XMASModule.cs]
+  * [agModule.cs] to [KerbalXMASModule.cs]
   * [nextGravitySetupEvent] to [NextGravitySetupEvent]
   * [prevGravitySetupEvent] to [prevGravitySetupEvent]
   * [onSwitch] to [OnSwitch]
-* [XMAS.dll] v1.1.7.68
+* [KerbalXMAS.dll] v1.1.7.68
 
 ### Status 1.1.7.0
 
@@ -290,7 +419,7 @@ sled
   * CS1061 error
     * .findWorldCenterOfMass() --> .COMD
 * closes #55 - CS1061: findWorldCenterOfMass
-* [XMAS.dll] v1.1.6.67
+* [KerbalXMAS.dll] v1.1.6.67
 
 ### Status 1.1.6.0
 
@@ -324,7 +453,7 @@ sled
     * this.vessel.rigidbody. --> Rigidbody vs = this.vessel.GetComponent<Rigidbody>();
 * closes #53 - CS1061: Renderer
 * closes #54 - CS1061: Rigidbody
-* [XMAS.dll] v1.1.5.36
+* [KerbalXMAS.dll] v1.1.5.36
 
 ### Status 1.1.5.0
 
@@ -349,7 +478,7 @@ sled
   * [red.png] from 8x8 to 4x4
 * Note: do not convert the png's
 * Code
-  * [XMAS.dll] v1.1.4.36
+  * [KerbalXMAS.dll] v1.1.4.36
 * Update
   * [agModule.cfg]
     * [crashTolerance] from 1 to 11
@@ -390,7 +519,7 @@ sled
 * Changes
   * from [public static int selectedCelestial = 0;] to [public int selectedCelestial = 0;]
   * from [public static double Consumption = 0.5;] to [public float Consumption = 0.5f;]
-* [XMAS.dll] v1.1.2.35
+* [KerbalXMAS.dll] v1.1.2.35
 
 ### Status 1.1.2.0
 
@@ -409,7 +538,7 @@ sled
 ### Changes 1.1.1.0
 
 * Add license.url
-* [XMAS.dll] v1.1.1.34
+* [KerbalXMAS.dll] v1.1.1.34
 
 ### Status 1.1.1.0
 
@@ -439,7 +568,7 @@ sled
   * Box003 to buttonRed
 * Add Hotkey (keypad 5)
 * this.myAnimation["switch"].speed = 1 from 5;
-* [XMAS.dll] v1.1.0.33
+* [KerbalXMAS.dll] v1.1.0.33
   
 ### Status 1.1.0.0
 
@@ -456,7 +585,7 @@ sled
 * by ximrm and Tuareg
 
 * Initial release
-* [XMAS.dll] v1.0.0.32
+* [KerbalXMAS.dll] v1.0.0.32
 * Recompiled by zer0Kerbal
 * Slight updates to bring up to modern standards
 
