@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | Kerbal XMAS (XMAS)                                    |
-| ---------- | ------------------------------------------------------------------- |
-| license    | GPL-2.0                                                             |
-| author     | ximrm, Tuareg and zer0Kerbal                                        |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/)   |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/KerbalXMAS)   |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KerbalXMAS) |
-| spacedock  | (https://spacedock.info/mod/3166)                                   |
-| ckan       | KerbalXMAS                                              |
+| modName    | Kerbal XMAS (XMAS)                                                |
+| ---------- | ----------------------------------------------------------------- |
+| license    | GPL-2.0                                                           |
+| author     | ximrm, Tuareg and zer0Kerbal                                      |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/KerbalXMAS)             |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/KerbalXMAS)           |
+| spacedock  | (https://spacedock.info/mod/3166)                                 |
+| ckan       | KerbalXMAS                                                        |
 
 -1.046More reflections , Heatshield, color/roughness change
 -1.045 Deer sounds adjusted
