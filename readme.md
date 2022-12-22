@@ -58,16 +58,20 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### YouTube videos by [SWDennis](https://www.youtube.com/@SWDennis) [KSP: Space Scumbag] (https://forum.kerbalspaceprogram.com/index.php?/profile/70411-*/)
 
-Santa Klause is coming for you
+#### Santa Klause is coming for you
+
 [![Santa Klause is coming for you](https://img.youtube.com/vi/ig-ViozlSHc/0.jpg)](https://youtu.be/ig-ViozlSHc)
 
-Santa Jeb Returns!
+#### Santa Jeb Returns!
+
 [![Santa Jeb Returns!](https://img.youtube.com/vi/TTwjd_gh2Oc/0.jpg)](https://youtu.be/TTwjd_gh2Oc)
 
-Santa Jeb 4
+#### Santa Jeb 4
+
 [![Santa Jeb 4](https://img.youtube.com/vi/NIrGnShhXcg/0.jpg)](https://youtu.be/NIrGnShhXcg)
 
-Santa Jeb bringing presents to the ISS
+#### Santa Jeb bringing presents to the ISS
+
 [![Santa Jeb bringing presents to the ISS](https://img.youtube.com/vi/YZNyT-ulUrc/0.jpg)](https://youtu.be/YZNyT-ulUrc)
 
 ### Help Wanted
