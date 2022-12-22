@@ -40,7 +40,6 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-
 ## Version 1.0.3.0-release `<Archival>`
 
 * 24 Dec 2014
