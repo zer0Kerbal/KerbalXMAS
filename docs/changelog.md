@@ -22,6 +22,25 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3179)                                 |
 | ckan       | KerbalXMAS                                                        |
 
+## Version 1.0.3.2-release `<Archival>`
+
+* 25 Dec 2014
+* Released for Kerbal Space Program 0.90.0
+* by ximrm and Tuareg
+
+* deer flavor improved
+* no changelog provided
+* remove <contents.obv> files
+* change model path
+
+### Status 1.0.3.2
+
+* Issues
+  * closes #14 - 1.0.3.2-release - `<Archival>`
+  * updates #7 - Archival Releases
+
+---
+
 ## Version 1.0.3.1-release `<Archival>`
 
 * 24 Dec 2014
