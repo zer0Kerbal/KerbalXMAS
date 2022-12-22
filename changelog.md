@@ -10,6 +10,29 @@
 | spacedock  | (https://spacedock.info/mod/3179)                                 |
 | ckan       | KerbalXMAS                                                        |
 
+## Version 1.0.4.6-release `<Archival>`
+
+* 27 Dec 2014
+* Released for Kerbal Space Program 0.90.0
+* by ximrm and Tuareg
+
+* More reflections
+* Heatshield
+* color/roughness change
+* remove <contents.obv> files
+* change model path
+* bug: <TextureReplacer.cfg>
+  * missing closing brace `}`
+  * updates #53 - [BUG] <TextureReplacer.cfg>
+
+### Status 1.0.4.6
+
+* Issues
+  * closes #20 - 1.0.4.6-release - `<Archival>`
+  * updates #7 - Archival Releases
+
+---
+
 ## Version 1.0.4.5-release `<Archival>`
 
 * 27 Dec 2014
