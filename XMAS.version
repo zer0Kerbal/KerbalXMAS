@@ -1,12 +1,12 @@
 {
-	"NAME"		     : "XMAS (XMAS) by Lunatic Aeronautics",
-	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/XMAS/master/XMAS.version",
-	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/XMAS/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/XMAS/master/changelog.md",
+	"NAME"		     : "Kerbal XMAS (XMAS) by Lunatic Aeronautics",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/KerbalXMAS/master/KerbalXMAS.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/KerbalXMAS/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/KerbalXMAS/master/changelog.md",
 	"GITHUB" :
 	{
 		"USERNAME"	        : "zer0Kerbal",
-		"REPOSITORY"		: "XMAS",
+		"REPOSITORY"		: "KerbalXMAS",
 		"ALLOW_PRE_RELEASE" : false
 	},
 	"VERSION" :
@@ -36,7 +36,7 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME" :	  "XMAS",
-		"DIRECTORY" : "LunaticAeronautics/XMAS"
+		"NAME" :	  "KerbalXMAS",
+		"DIRECTORY" : "LunaticAeronautics/KerbalXMAS"
 	}
 }
