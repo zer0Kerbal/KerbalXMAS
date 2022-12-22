@@ -22,14 +22,36 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3179)                                 |
 | ckan       | KerbalXMAS                                                        |
 
+## Version 1.0.3.1-release `<Archival>`
+
+* 24 Dec 2014
+* Released for Kerbal Space Program 0.90.0
+* by ximrm and Tuareg
+
+* no changelog provided
+* remove <contents.obv> files
+* change model path
+
+### Status 1.0.3.1
+
+* Issues
+  * closes #16 - 1.0.3.1-release - `<Archival>`
+  * updates #7 - Archival Releases
+
+---
+
+
 ## Version 1.0.3.0-release `<Archival>`
 
 * 24 Dec 2014
 * Released for Kerbal Space Program 0.90.0
 * by ximrm and Tuareg
 
+* deer reactionwheels
+* COM fix
 * new <DeerAnim.dll>
 * remove <contents.obv> files
+* change model path
 
 ### Status 1.0.3.0
 
@@ -45,7 +67,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * Released for Kerbal Space Program 0.90.0
 * by ximrm and Tuareg
 
+* candle fix
 * remove <contents.obv> files
+* change model path
 
 ### Status 1.0.0.1
 
@@ -63,6 +87,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * Initial release
 * remove <contents.obv> files
+* change model path
 
 ### Status 1.0.0.0
 
