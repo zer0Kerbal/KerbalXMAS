@@ -1,19 +1,43 @@
-﻿using System;
+﻿/* Kerbal XMAS (XMAS) - Custom Deer Animation
+   * Copyright (C) 2014 Lunatic Aeronautics (ximrm and Tuareg)
+   * Copyright (C) 2020,2022 zer0Kerbal
+
+  * This program is free software; you can redistribute it and/or modify
+  * it under the terms of the GNU General Public License as published by
+  * the Free Software Foundation; either version 2 of the License, or (at
+  * your option) any later version.
+  * 
+  * This program is distributed in the hope that it will be useful, but
+  * WITHOUT ANY WARRANTY; without even the implied warranty of
+  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+  * General Public License for more details.
+  * 
+  * You should have received a copy of the GNU General Public License
+  * along with this program; if not, write to the Free Software
+  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307
+  * USA.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using UnityEngine;
 
-namespace DeerAnim
+namespace KerbalXMAS
 {
+    /// <summary>Kerbal XMAS (XMAS - custom Deer Animation</summary>
     public class DeerAnim : PartModule
     {
+        /// <summary>Idle Animation</summary>
         [KSPField(isPersistant = false)]
         public string IdleAnim;
 
+        /// <summary>Trot Animation</summary>
         [KSPField(isPersistant = false)]
         public string TrotAnim;
 
+        /// <summary>Gallop Animation</summary>
         [KSPField(isPersistant = false)]
         public string GallopAnim;
 
@@ -25,12 +49,14 @@ namespace DeerAnim
         private FXGroup TrotAudio = new FXGroup("Walk");
         private FXGroup GallopAudio = new FXGroup("Gallop");
 
+        /// <summary>OnStart</summary>
+        /// <param name="State"></param>
         public override void OnStart(StartState State)
         {
             myAnimation = this.part.GetComponentInChildren<Animation>();
 
             IdleAudio.audio = this.gameObject.AddComponent<AudioSource>();
-            IdleAudio.audio.clip = GameDatabase.Instance.GetAudioClip("KerbalXMAS/deer/Idle");
+            IdleAudio.audio.clip = GameDatabase.Instance.GetAudioClip("LunaticAeronautics/KerbalXMAS/Sounds/Idle");
             IdleAudio.audio.dopplerLevel = 0f;
             IdleAudio.audio.rolloffMode = AudioRolloffMode.Logarithmic;
             IdleAudio.audio.Stop();
@@ -40,7 +66,7 @@ namespace DeerAnim
             IdleAudio.audio.maxDistance = 2000;
 
             TrotAudio.audio = this.gameObject.AddComponent<AudioSource>();
-            TrotAudio.audio.clip = GameDatabase.Instance.GetAudioClip("KerbalXMAS/deer/Walk");
+            TrotAudio.audio.clip = GameDatabase.Instance.GetAudioClip("LunaticAeronautics/KerbalXMAS/Sounds/Walk");
             TrotAudio.audio.dopplerLevel = 0f;
             TrotAudio.audio.rolloffMode = AudioRolloffMode.Logarithmic;
             TrotAudio.audio.Stop();
@@ -50,7 +76,7 @@ namespace DeerAnim
             TrotAudio.audio.maxDistance = 2000;
 
             GallopAudio.audio = this.gameObject.AddComponent<AudioSource>();
-            GallopAudio.audio.clip = GameDatabase.Instance.GetAudioClip("KerbalXMAS/deer/Gallop");
+            GallopAudio.audio.clip = GameDatabase.Instance.GetAudioClip("LunaticAeronautics/KerbalXMAS/Sounds/Gallop");
             GallopAudio.audio.dopplerLevel = 0f;
             GallopAudio.audio.rolloffMode = AudioRolloffMode.Logarithmic;
             GallopAudio.audio.Stop();
@@ -60,6 +86,7 @@ namespace DeerAnim
             GallopAudio.audio.maxDistance = 2000;
         }
 
+        /// <summary>OnUpdate</summary>
         public override void OnUpdate()
         {
             ActualThrot = vessel.ctrlState.mainThrottle;
