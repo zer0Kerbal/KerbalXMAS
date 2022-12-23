@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DeerAnim</name>
+    </assembly>
+    <members>
+        <member name="T:KerbalXMAS.DeerAnim">
+            <summary>Kerbal XMAS (XMAS - custom Deer Animation</summary>
+        </member>
+        <member name="F:KerbalXMAS.DeerAnim.IdleAnim">
+            <summary>Idle Animation</summary>
+        </member>
+        <member name="F:KerbalXMAS.DeerAnim.TrotAnim">
+            <summary>Trot Animation</summary>
+        </member>
+        <member name="F:KerbalXMAS.DeerAnim.GallopAnim">
+            <summary>Gallop Animation</summary>
+        </member>
+        <member name="M:KerbalXMAS.DeerAnim.OnStart(PartModule.StartState)">
+            <summary>OnStart</summary>
+            <param name="State"></param>
+        </member>
+        <member name="M:KerbalXMAS.DeerAnim.OnUpdate">
+            <summary>OnUpdate</summary>
+        </member>
+    </members>
+</doc>
