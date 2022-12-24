@@ -33,8 +33,10 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Summary 1.0.99.0
 
 * lots of updates and linting
-* doesn't require a fuel switcher; supports FS/IFS
-* more ribbon colors (with a fuel switcher)
+* Fuel/Texture Switching
+  * doesn't require a fuel switcher;
+  * supports FS/IFS (patch needs updating)
+  * more ribbon colors (with a fuel switcher)
 * fully localized (English)
 * nodes adjusted and corrected
 * could certainly use decorative lights
