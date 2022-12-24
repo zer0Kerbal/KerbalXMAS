@@ -76,6 +76,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Help Wanted
 
+> * updating the FS/IFS patch
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Variant Textures and models!
@@ -120,10 +121,15 @@ or [![CKAN][ckan:img]][ckan:url]
 
 ### Supports
 
-* [Firespitter Core][fs] plugin
+* *either* Fuel Switcher (current support needs updating)
+  * [Firespitter Core][fs] plugin
+  * [Interstellar Fuel Switch Core][ifs] plugin
 * [Active Texture Management][atm] (disabled by default)
 * [Deadly Reentry][dre]
 * [Texture Replacer][tr] needed for reflections!
+* *either* (uses the stock mk1PodCockpit)
+  * [MOARdV's Avionics Systems (MAS)][mas]
+  * [Raster Prop Monitor (RPM)][rpm]
 
 ### Supports
 
@@ -247,6 +253,7 @@ parts, plugin
 [atm]: https://forum.kerbalspaceprogram.com/index.php?/topic/53809-*/ "Active Texture Management"
 [dre]: https://forum.kerbalspaceprogram.com/index.php?/topic/50296-*/ "Deadly Reentry"
 [fs]: http://forum.kerbalspaceprogram.com/showthread.php/24551-*/ "Firespitter Core"
+[ifs]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch Core"
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
 [mas]: https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics Systems (MAS)"
