@@ -13,6 +13,8 @@ updated: 04 Oct 2022 -->
 
 A holiday themed parts addon (and plugin) by Lunatic Aeronautics for Kerbal Space Program.
 
+*Knit holiday sweater or custom space suit not included.*
+
 # Kerbal XMAS (XMAS)
 
 A few weeks ago, a pink-skinned alien "landed" on Kerbin. After gathering up all the debris, our scientists decided to reverse engineer these strange but obviously useful parts. The alien's corpse was identified as Santa K. We're assuming his last name was Kerman.
