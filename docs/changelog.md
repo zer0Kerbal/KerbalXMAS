@@ -28,16 +28,27 @@ CC BY-ND 4.0 by zer0Kerbal
 * Released for Kerbal Space Program 1.12.4
 * by zer0Kerbal
 
-[Spoiler: Planned Features]
-
-sled
-* science experiment
-* x-mas balls for different purposes
-* shiny secret
-
 ### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 ### Summary 1.0.99.0
+
+* lots of updates and linting
+* doesn't require a fuel switcher; supports FS/IFS
+* more ribbon colors (with a fuel switcher)
+* fully localized (English)
+* nodes adjusted and corrected
+* could certainly use decorative lights
+* updated and recompiled
+  * <DeerAnim.dll> v1.0.0.0 --> v1.0.99.4
+  * .NET 3.5
+  * KSP 1.12.4
+  * C# 3.0
+* converted .wav --> .ogg
+* updated all compatibility patches
+* config:
+  * <ghostparts.cfg> v1.3.1.3
+  * <KerbalXMAS.cfg> v1.0.0.0
+    * allows searching 'XMAS' in editors
 
 ### Archival Releases
 
@@ -53,9 +64,24 @@ sled
 * [x] 1.0.0.0-release - `<Archival>`
 * closes #7 - Archival Releases
 
-### Part
+### Code 1.0.99.0
 
-* Asset Updates 1.0.99.0
+* updated and recompiled
+  * <DeerAnim.dll> v1.0.0.0 --> v1.0.99.4
+  * .NET 3.5
+  * KSP 1.12.4
+  * C# 3.0
+* adjusted
+  * location of sound assets
+* added
+  * <version.cs> v2.0.3.0
+  * <AssemblyInfo.cs> v1.0.0.0
+  * <DeerAnim.csproj> v1.0.0.0
+  * <DeerAnim.sln> v1.0.0.0
+
+### Part 1.0.99.0
+
+* Asset Updates
   * create Assets/ folder
   * convert from mesh to MODEL {}
   * rename
