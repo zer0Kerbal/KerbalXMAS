@@ -1,0 +1,22 @@
+// ActiveTextureManager.cfg v1.0.0.0
+// Kerbal XMAS (XMAS)
+// created: 23 Dec 2014
+// updated: 22 Dec 2022
+
+// this file: GPL-2.0 by zer0Kerbal
+
+ACTIVE_TEXTURE_MANAGER_CONFIG
+{
+	folder = LunaticAeronautics/KerbalXMAS
+	enabled  = true
+	NORMAL_LIST
+	{
+		texture = LunaticAeronautics/KerbalXMAS/Assets/ksp-stocking-nrm_NRM
+		texture = LunaticAeronautics/KerbalXMAS/Assets/node_stack_bottom_3_normals_NRM
+		texture = LunaticAeronautics/KerbalXMAS/Assets/sweets--normal_NRM		
+		texture = LunaticAeronautics/KerbalXMAS/Assets/candle_nrm_NRM	
+		texture = LunaticAeronautics/KerbalXMAS/Assets/ball-nrm2_NRM
+		texture = LunaticAeronautics/KerbalXMAS/Assets/ball-nrm-flat
+		texture = LunaticAeronautics/KerbalXMAS/Assets/reindeer-nrm_NRM
+	}
+}
