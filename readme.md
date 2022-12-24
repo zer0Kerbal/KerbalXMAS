@@ -315,4 +315,5 @@ Track progress: issues [here][MOD:issue] and projects [here](https://github.com/
 <!-- footnotes -->
 [^1]: this isn't a mod. ;P  
 [^2]: ***may*** work on other versions (YMMV)  
-[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
+[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*#   a p i t e s t b e d  
+ 
