@@ -180,7 +180,7 @@ sled
 ### Status 1.0.99.0
 
 * Issues
-  * closes #1 - Kerbal XMAS (KMAS) 1.0.99.0-adoption `<Thank you ximrm and Taureg>` edition
+  * closes #1 - Kerbal XMAS (KMAS) 1.0.99.0-adoption `<Thank you ximrm and Tuareg>` edition
   * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
   * closes #3 - 1.1.99.0 Create Documentation
   * closes #4 - 1.1.99.0 Create Social Media Presence
